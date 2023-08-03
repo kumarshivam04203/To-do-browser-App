@@ -1,0 +1,41 @@
+body{
+   
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.content{
+    width: 500px;
+    background-color: aqua;
+
+}
+
+.content input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.add-task{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(39, 227, 83);
+}
+.add-tasks{
+    text-align: start;
+    margin-left: 5rem;
+}
+.add-tasks li{
+    margin: 10px;
+    font-size: 1.4rem;
+    
+}
+
+.delete{
+    padding: 6px;
+    margin-left:2rem;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 0, 0.689);
+}
